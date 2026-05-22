@@ -667,7 +667,7 @@ export default function FlightSearch() {
                     </p>
                     <a
                       className="rounded-full bg-[#c75b3a] px-4 py-3 text-sm font-black text-white hover:bg-[#a94a31] lg:mt-4 lg:inline-block"
-                      href="tel:+18885550128"
+                      href="tel:+18883334391"
                     >
                       Book this flight
                     </a>
@@ -1104,7 +1104,7 @@ function HotelDetailsModal({
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
             <a
               className="rounded-md bg-[#18a058] px-5 py-3 text-center text-sm font-black text-white hover:bg-[#128348]"
-              href={`https://wa.me/14155550198?text=${whatsappText}`}
+              href={`https://wa.me/15799005844?text=${whatsappText}`}
               rel="noreferrer"
               target="_blank"
             >
@@ -1112,7 +1112,7 @@ function HotelDetailsModal({
             </a>
             <a
               className="rounded-md bg-[#0f172a] px-5 py-3 text-center text-sm font-black text-white hover:bg-[#172554]"
-              href="tel:+18885550128"
+              href="tel:+18883334391"
             >
               Call Travel Expert
             </a>

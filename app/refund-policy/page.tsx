@@ -46,7 +46,7 @@ const sections = [
   {
     title: "How To Request A Refund",
     body: [
-      "Email info@crystaltourandtravel.com or call +1 (415) 555-0198 or +1 888-555-0128 with your booking name, invoice number, travel dates, destination, reason for refund request, and any supporting documents. Written requests may also be sent to CrystalTourAndTravel LLC, 210 Harbor View Suite 405, San Francisco, CA 94105.",
+      "Email info@crystaltourandtravel.com or call +1 (579) 900-5844 or +1 888-333-4391 with your booking name, invoice number, travel dates, destination, reason for refund request, and any supporting documents. Written requests may also be sent to CrystalTourAndTravel LLC, 210 Harbor View Suite 405, San Francisco, CA 94105.",
       "We will review the booking, check supplier rules, and share the available refund or credit options where applicable.",
     ],
   },

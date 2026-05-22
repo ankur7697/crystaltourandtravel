@@ -54,13 +54,13 @@ const sections = [
     title: "Your Choices",
     body: [
       "You may request access, correction, or deletion of your personal information where legally permitted. Some records may need to be retained for accounting, legal, fraud prevention, or dispute resolution purposes.",
-      "To make a privacy request, contact us at info@crystaltourandtravel.com, +1 (415) 555-0198, or +1 888-555-0128.",
+      "To make a privacy request, contact us at info@crystaltourandtravel.com, +1 (579) 900-5844, or +1 888-333-4391.",
     ],
   },
   {
     title: "Contact",
     body: [
-      "For privacy questions, contact CrystalTourAndTravel at info@crystaltourandtravel.com, +1 (415) 555-0198, +1 888-555-0128, or by mail at CrystalTourAndTravel LLC, 210 Harbor View Suite 405, San Francisco, CA 94105. Please include enough detail for us to identify your request and respond properly.",
+      "For privacy questions, contact CrystalTourAndTravel at info@crystaltourandtravel.com, +1 (579) 900-5844, +1 888-333-4391, or by mail at CrystalTourAndTravel LLC, 210 Harbor View Suite 405, San Francisco, CA 94105. Please include enough detail for us to identify your request and respond properly.",
     ],
   },
 ];

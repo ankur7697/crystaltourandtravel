@@ -112,7 +112,7 @@ const flows: Record<ServiceType, FlowStep[]> = {
     {
       field: "phone",
       label: "Phone / WhatsApp number",
-      placeholder: "Example: +1 415 555 0198",
+      placeholder: "Example: +1 579 900 5844",
       required: true,
       type: "tel",
     },
@@ -174,7 +174,7 @@ const flows: Record<ServiceType, FlowStep[]> = {
     {
       field: "phone",
       label: "Phone / WhatsApp number",
-      placeholder: "Example: +1 415 555 0198",
+      placeholder: "Example: +1 579 900 5844",
       required: true,
       type: "tel",
     },
@@ -234,7 +234,7 @@ const flows: Record<ServiceType, FlowStep[]> = {
     {
       field: "phone",
       label: "Phone / WhatsApp number",
-      placeholder: "Example: +1 415 555 0198",
+      placeholder: "Example: +1 579 900 5844",
       required: true,
       type: "tel",
     },
@@ -275,7 +275,7 @@ const flows: Record<ServiceType, FlowStep[]> = {
     {
       field: "phone",
       label: "Phone / WhatsApp number",
-      placeholder: "Example: +1 415 555 0198",
+      placeholder: "Example: +1 579 900 5844",
       required: true,
       type: "tel",
     },
@@ -309,7 +309,7 @@ const flows: Record<ServiceType, FlowStep[]> = {
     {
       field: "phone",
       label: "Phone / WhatsApp number",
-      placeholder: "Example: +1 415 555 0198",
+      placeholder: "Example: +1 579 900 5844",
       required: true,
       type: "tel",
     },
@@ -326,7 +326,7 @@ const flows: Record<ServiceType, FlowStep[]> = {
 const initialMessage =
   "Hi, welcome to CrystalTourAndTravel. How can we help you today?";
 const whatsappPhoneNumber =
-  process.env.NEXT_PUBLIC_CRYSTAL_TOUR_WHATSAPP_NUMBER ?? "14155550198";
+  process.env.NEXT_PUBLIC_CRYSTAL_TOUR_WHATSAPP_NUMBER ?? "15799005844";
 const whatsappText =
   "Hi, I submitted a travel enquiry on CrystalTourAndTravel.";
 

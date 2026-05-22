@@ -63,7 +63,7 @@ const faqs = [
   {
     question: "How do I contact the team after submitting an inquiry?",
     answer:
-      "You can reach us at info@crystaltourandtravel.com, +1 (415) 555-0198, or +1 888-555-0128 for follow-up on quotes, package details, or travel consultant support.",
+      "You can reach us at info@crystaltourandtravel.com, +1 (579) 900-5844, or +1 888-333-4391 for follow-up on quotes, package details, or travel consultant support.",
   },
 ];
 
@@ -453,11 +453,11 @@ export default function Home() {
                 info@crystaltourandtravel.com
               </a>
               <div className="mt-4 grid gap-2 text-base font-black text-[#172554]">
-                <a className="hover:text-[#c75b3a]" href="tel:+14155550198">
-                  +1 (415) 555-0198
+                <a className="hover:text-[#c75b3a]" href="tel:+15799005844">
+                  +1 (579) 900-5844
                 </a>
-                <a className="hover:text-[#c75b3a]" href="tel:+18885550128">
-                  +1 888-555-0128
+                <a className="hover:text-[#c75b3a]" href="tel:+18883334391">
+                  +1 888-333-4391
                 </a>
               </div>
               <div className="mt-5 border-t border-[#0f172a]/10 pt-5 text-sm font-bold leading-6 text-[#475569]">

@@ -46,7 +46,7 @@ const sections = [
   {
     title: "How To Cancel",
     body: [
-      "Email info@crystaltourandtravel.com or call +1 (415) 555-0198 or +1 888-555-0128 with your booking name, invoice number, travel dates, service to cancel, and reason for cancellation. Written requests may also be sent to CrystalTourAndTravel LLC, 210 Harbor View Suite 405, San Francisco, CA 94105. Urgent travel changes should also be communicated by phone or messaging if you have an assigned travel consultant.",
+      "Email info@crystaltourandtravel.com or call +1 (579) 900-5844 or +1 888-333-4391 with your booking name, invoice number, travel dates, service to cancel, and reason for cancellation. Written requests may also be sent to CrystalTourAndTravel LLC, 210 Harbor View Suite 405, San Francisco, CA 94105. Urgent travel changes should also be communicated by phone or messaging if you have an assigned travel consultant.",
       "We will review your booking terms and share the estimated cancellation outcome before proceeding where possible.",
     ],
   },
